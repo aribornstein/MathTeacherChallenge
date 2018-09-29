@@ -13,6 +13,11 @@ Build a model that can perform automatic problem solving, written in natural lan
 
 ## Download Dataset
 
-The math teacher dataset can be downloaded (here)[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip]
+The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip)
 
 ## Useful Resources
+
+- [Spacy]()
+- [Allen NLP]()
+- [PyNeurboParser]()
+- [Azure Text Analytics]()
