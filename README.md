@@ -17,7 +17,9 @@ The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-u
 
 ## Useful Resources
 
-- [Spacy]()
-- [Allen NLP]()
-- [PyNeurboParser]()
-- [Azure Text Analytics]()
+- [Spacy](https://spacy.io/)
+- [Allen NLP](https://allennlp.org/)
+- [PyNeurboParser](https://github.com/aribornstein/pyNeurboParser)
+- [Azure Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+- [Azure Machine Learning SDK With Scalable GPUs] (?utm_source=abornst&utm_medium=linkedin&utm_campaign=link&WT.mc_id=link-github-abornst)
+- [Getting Started with PyTorch Azure](https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/index)
