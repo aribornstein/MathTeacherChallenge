@@ -11,11 +11,16 @@ Build a model that can perform automatic problem solving, written in natural lan
 
 - The model with the highest accuracy on our test dataset above the baseline will win the competition.  
 - Participants must be able to show code, demo their models and explain their approaches.
+- Do not train on the included test set that will disqualify your solution. Any other data is free game.
 - Up to 4 participants on a team.
+
+## Questions 
+
+I will be monitoring the github issues feel free to add your room number and I will come over to help.
 
 ## Download Dataset
 
-The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip)
+The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip) For more information on the subsets see [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-sigmadolphin.datasets.pdf).
 
 ## Useful Resources
 
@@ -26,4 +31,6 @@ The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-u
 - [Azure Machine Learning SDK With Scalable GPUs](https://azure.microsoft.com/en-us/blog/what-s-new-in-azure-machine-learning-service/?utm_source=abornst&utm_medium=github&utm_campaign=link&WT.mc_id=link-github-abornst)
 - [Getting Started with PyTorch Azure](https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/index)
 - [Dolphin 18k Data](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/08/dolphin18k-v1.1.zip)
-- [NALU](https://github.com/kevinzakka/NALU-pytorch)
+- [Neural Arithmetic Logic Units](https://github.com/kevinzakka/NALU-pytorch)
+- [SymPy](https://www.sympy.org/en/index.html)
+- [Project Euclid](https://allenai.org/euclid/)
