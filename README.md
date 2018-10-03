@@ -26,3 +26,4 @@ The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-u
 - [Azure Machine Learning SDK With Scalable GPUs](https://azure.microsoft.com/en-us/blog/what-s-new-in-azure-machine-learning-service/?utm_source=abornst&utm_medium=github&utm_campaign=link&WT.mc_id=link-github-abornst)
 - [Getting Started with PyTorch Azure](https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/index)
 - [Dolphin 18k Data](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/08/dolphin18k-v1.1.zip)
+- [NALU](https://github.com/kevinzakka/NALU-pytorch)
