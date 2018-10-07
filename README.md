@@ -7,6 +7,19 @@ Microsoft Datahack 2018 Math Teacher Challenge
 
 Build a model that can perform automatic problem solving, written in natural language. On the provided dataset.
 
+## Leader Board
+
+|  Rank  | Team | Acc   |
+|---     |    --|---    |
+|1       | WolframB   | 16.289  |
+|2  |   The Purples | 12.4   |
+|3   |FFF   |9.375   |
+|4   |DS82  |7.180   |
+|5   |Is coming Home   |4.92   |
+|6   |The Principle Components   |N/A   |
+|7   |The Undecided   |N/A   |
+|8   |The Math Life   |N/A   |
+
 ## Rules
 
 - The model with the highest accuracy on our test dataset above the baseline will win the competition.  
@@ -21,6 +34,7 @@ I will be monitoring the github issues feel free to add your room number and I w
 ## Download Dataset
 
 The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip) For more information on the subsets see [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-sigmadolphin.datasets.pdf).
+
 
 ## Useful Resources
 
