@@ -20,6 +20,10 @@ Build a model that can perform automatic problem solving, written in natural lan
 |7   |The Undecided   |N/A   |
 |8   |The Math Life   |N/A   |
 
+## Team Slides
+
+[WolframB](https://docs.google.com/presentation/d/15omMlS1HlfkQF_US1C_FbmU6cN4iYAg_ICqZReXhbnY/edit?ts=5bbc9f54#slide=id.g439dbe9a8b_0_937)
+
 ## Rules
 
 - The model with the highest accuracy on our test dataset above the baseline will win the competition.  
