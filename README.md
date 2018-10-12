@@ -8,7 +8,7 @@ Microsoft Datahack 2018 Math Teacher Challenge
 Build a model that can perform automatic problem solving, written in natural language. On the provided dataset.
 
 ## Challenge Presentation Slides
-<a href='https://www.slideshare.net/AaronAriBornstein/data-hack-2018-microsoft-math-teacher-challenge'>
+<a href='https://www.slideshare.net/AaronAriBornstein/data-hack-2018-microsoft-math-teacher-challenge' target="_blank">
 <img src='https://image.slidesharecdn.com/beyondwordembeddings-181009082102/95/beyond-word-embeddings-1-638.jpg?cb=1539073331'>
 </img> 
 </a>
