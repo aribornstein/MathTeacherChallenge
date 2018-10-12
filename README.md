@@ -1,5 +1,5 @@
-# MathTeacherChallenge
-Microsoft Datahack 2018 Math Teacher Challenge
+# Math Teacher Challenge
+[Microsoft Datahack 2018 Math Teacher Challenge](https://datahack.org.il)
 
 ![](https://images.pexels.com/photos/163032/office-pen-calculator-computation-163032.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
