@@ -42,7 +42,7 @@ I will be monitoring the github issues feel free to add your room number and I w
 
 ## Download Dataset
 
-The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip) For more information on the subsets see [here](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//dolphin-sigmadolphin.datasets.pdf).
+The math teacher dataset can be downloaded [here](https://www.microsoft.com/research/wp-content/uploads/2016/02//dolphin-number_word_std.zip?WT.mc_id=aiml-0000-abornst) For more information on the subsets see [here](https://www.microsoft.com/research/wp-content/uploads/2016/02//dolphin-sigmadolphin.datasets.pdf?WT.mc_id=aiml-0000-abornst).
 
 
 ## Useful Resources
@@ -50,10 +50,10 @@ The math teacher dataset can be downloaded [here](https://www.microsoft.com/en-u
 - [Spacy](https://spacy.io/)
 - [Allen NLP](https://allennlp.org/)
 - [PyNeurboParser](https://github.com/aribornstein/pyNeurboParser)
-- [Azure Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
-- [Azure Machine Learning SDK With Scalable GPUs](https://azure.microsoft.com/en-us/blog/what-s-new-in-azure-machine-learning-service/?utm_source=abornst&utm_medium=github&utm_campaign=link&WT.mc_id=link-github-abornst)
-- [Getting Started with PyTorch Azure](https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/index)
-- [Dolphin 18k Data](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/08/dolphin18k-v1.1.zip)
+- [Azure Text Analytics](https://azure.microsoft.com/services/cognitive-services/text-analytics/?WT.mc_id=aiml-0000-abornst)
+- [Azure Machine Learning SDK With Scalable GPUs](https://azure.microsoft.com/blog/what-s-new-in-azure-machine-learning-service/?utm_source=abornst&utm_medium=github&utm_campaign=link&WT.mc_id=aiml-0000-abornst)
+- [Getting Started with PyTorch Azure](https://docs.microsoft.com/learn/modules/interactive-deep-learning/index?WT.mc_id=aiml-0000-abornst)
+- [Dolphin 18k Data](https://www.microsoft.com/research/wp-content/uploads/2015/08/dolphin18k-v1.1.zip?WT.mc_id=aiml-0000-abornst)
 - [Neural Arithmetic Logic Units](https://github.com/kevinzakka/NALU-pytorch)
 - [SymPy](https://www.sympy.org/en/index.html)
 - [Project Euclid](https://allenai.org/euclid/)
